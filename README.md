@@ -14,7 +14,7 @@ https://evolutiongym.github.io/tutorials/getting-started.html
 ## Novelty Search with NEAT
 ### execution
 ```
-$python run_evogym_ns_neat.py
+$python run_ns_neat.py
 ```
 #### options:
 | option        | abbrev  | default         | detail  |
@@ -101,7 +101,7 @@ $python make_figures_ns_hyper.py {experiment name}
 ## PPO
 ### execution
 ```
-$python run_evogym_ppo.py
+$python run_ppo.py
 ```
 #### options:
 | option                | abbrev  | default         | detail  |
